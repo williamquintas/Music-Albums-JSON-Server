@@ -82,18 +82,20 @@
       "firstName": "Terry",
       "lastName": "Medhurst",
       "email": "atuny0@sohu.com",
-      "phone": "+63 791 675 8914",
+      "phoneNumber": "+63 791 675 8914",
       "username": "atuny0",
       "password": "9uQFF1Lh",
       "image": "https://robohash.org/hicveldicta.png",
-      "address": {
-        "zipcode": "20020",
-        "street": "1745 T Street Southeast",
-        "number": "42",
-        "neighborhood": "42",
-        "city": "Washington",
-        "state": "DC"
-      }
+      "addresses": [
+        {
+          "zipcode": "20020",
+          "street": "1745 T Street Southeast",
+          "number": "42",
+          "neighborhood": "42",
+          "city": "Washington",
+          "state": "DC"
+        }
+      ]
     }
   ],
   "carts": []
