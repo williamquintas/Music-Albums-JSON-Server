@@ -66,6 +66,15 @@
     }
   ],
   "orders": [],
-  "users": [],
+  "admins": [
+    {
+      "id": 1,
+      "firstName": "Miles",
+      "lastName": "Cummerata",
+      "email": "yraigatt3@nature.com",
+      "username": "yraigatt3",
+      "password": "sRQxjPfdS"
+    }
+  ],
   "carts": []
 }
